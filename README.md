@@ -3,6 +3,19 @@
 
 El propósito de este taller es desarrollar una aplicación web básica para la traducción de texto utilizando LangChain y un modelo de lenguaje LLM.
 
+## prerrequisitos
+* Git - Control de versiones.
+* python - Lenguaje de programación.
+* OPENAI_API_KEY - Debido a temas de seguridad no es posible alojar la llave en el repositorio, por eso debe contar con una para reemplazarla en el codigo para que funcione.
+* Jupyter - Entorno interactivo que permite la creación de documentos que contienen código y texto explicativo.
+
+
+## Versiones 
+Python 3.12.5
+
+Visual Studio Code: 1.95.1
+
+
 ### Instalación y Ejecución
 Para ejecutar la aplicación es necesario instalar Python 3.12.7 o versiones similares y git. El primer paso es clonar el repositorio e ingresar a la carpeta resultante
 
@@ -69,5 +82,16 @@ pregunta  = digame comunidades de videojuego en Cuba
 Pregunta = Los videojuegos por que  son importantes 
 
 ![image](https://github.com/user-attachments/assets/aa9b7006-e50e-4714-8b6e-3233b71e174e)
+
+Ahora pregunta no relacionada con lo aprendido de la ia
+
+Pregunta = Como va Colombia en Las eliminatorias
+
+![image](https://github.com/user-attachments/assets/181f867b-1f76-4dca-80f7-2c8442adda94)
+
+
+
+## Agradecimientos
+* Al profesor Daniel Benavides por impartir esta clase y tener la pasión de enseñar.
 
 
